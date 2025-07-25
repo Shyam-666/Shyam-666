@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m N.Shyam
+- 💻 I'm a CSE Student @ MVGR
+- 🌱 Currently learning MERN Stack / Image Processing
+- 🛠️ Projects: Inventory Management, Tourist Guide (MERN), etc.
+- 📫 How to reach me: nidigattishyam@gmail.com | linkedin.com/in/nidigatti-shyam.
 
-<!--
-**Shyam-666/Shyam-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- 🔧 **Inventory Management System** – Node.js + MongoDB + HTML
+- 🧭 **PacknGO** – MERN Stack Travel App
+- 📷 **Image Super-Resolution Project** – Research-based using OpenCV and DL
 
-Here are some ideas to get you started:
+## 🏆 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mvgr&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- https://drive.google.com/file/d/1ATrzS8DgJShb6BgkrYaZoaH4pMpLr2T2/view?usp=drive_link
+
